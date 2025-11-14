@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445082303799",
+    "project_id": "contador-de-productos-aa481",
+    "storage_bucket": "contador-de-productos-aa481.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445082303799:android:0f1d31fb439ebe4158eeb2",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNyD4uyCvZqG_ek6id7nq3dV0iFoT_m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
