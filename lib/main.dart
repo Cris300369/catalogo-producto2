@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       fontWeight: FontWeight.bold, color: Colors.white)),
               content: Text(
                   'El contador es $_counter. ¿Deseas seguir contando?',
-                  style: TextStyle(color: Colors.white70)),
+                  style: const TextStyle(color: Colors.white70)),
               actions: <Widget>[
                 TextButton(
                   child: const Text('No, parar',
